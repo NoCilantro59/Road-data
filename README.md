@@ -2,8 +2,8 @@
 
 The datasets used in this study are available for download from Baidu Netdisk:
 
-- **Link**: https://pan.baidu.com/s/1NS_IToglDEi5nuvvpAdpWQ?pwd=0523
-- **Password**: 0523
+- **Link**: https://www.alipan.com/s/STaJCr95Dj3
+
 
 The downloaded `data.zip` contains the following shapefiles:
 
