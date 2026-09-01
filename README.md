@@ -1,6 +1,6 @@
 ## Data Availability
 
-The datasets used in this study are available for download from Baidu Netdisk:
+The datasets used in this study are available for download from Netdisk:
 
 - **Link**: https://www.alipan.com/s/STaJCr95Dj3
 
