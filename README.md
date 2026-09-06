@@ -1,8 +1,10 @@
 ## Data Availability
 
-The datasets used in this study are available for download from Netdisk:
+The datasets used in this study are available for download from :
 
 - **Link**: https://www.alipan.com/s/STaJCr95Dj3
+- or
+-  **Link**: https://doi.org/10.5281/zenodo.22360771
 
 
 The downloaded `data.zip` contains the following shapefiles:
